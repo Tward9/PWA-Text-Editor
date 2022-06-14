@@ -23,10 +23,10 @@ After running npm i in the root folder, in the console, type npm run start, this
 
 Usage Images:
 
-![application in browser](/Develop/READMEImages/Browser.png)  
-![downloaded application](/Develop/READMEImages/LocalApplication.png)  
-![service worker](/Develop/READMEImages/SW.png)  
-![IndexDB Running](/Develop/READMEImages/IDB.png)  
+![application in browser](/READMEImages/Browser.png)  
+![downloaded application](/READMEImages/LocalApplication.png)  
+![service worker](/READMEImages/SW.png)  
+![IndexDB Running](/READMEImages/IDB.png)  
 
 ## Contributing
 
