@@ -3,6 +3,8 @@
 
 This application is a text editor that can be downloaded as an app and run offline. The data entered into the editor is saved if it loses focus and is still viewable the next time it is opened thanks to IndexedDB.
 
+Check out the deployed application [here](https://tw-text-editor.herokuapp.com/)
+
 ## Table of Contents
 
 -[Installation](#installation)  
